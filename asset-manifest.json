@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa61132d.css",
+    "main.js": "/static/js/main.a6517f63.js",
+    "static/media/iransans.ttf": "/static/media/iransans.58a67baf52f635fb0266.ttf",
+    "static/media/toppage.jpg": "/static/media/toppage.f0c6c5a1aab211191a49.jpg",
+    "index.html": "/index.html",
+    "main.aa61132d.css.map": "/static/css/main.aa61132d.css.map",
+    "main.a6517f63.js.map": "/static/js/main.a6517f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa61132d.css",
+    "static/js/main.a6517f63.js"
+  ]
+}
